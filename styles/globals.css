@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.up{
+    width:50%;
+}
+.nav{
+    margin-top: 30%;
+    margin-left: 20%;
+}
+.sm{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.intro{
+    align-items: center;
+}
+.yoga{
+    object-fit: contain;
+    height:100%;
+}
+.yog{
+margin-left:45%;
+}
+.pic{
+    position: relative;
+    height: 100vw;
+    width: 900px;
+    display: flex;
+   
+}
+.image{
+    width: 1000px;
+    height: 600px;
+    
+
+    
+    
+}
+.right{
+    position: absolute;
+    top: 420px;
+    right: 210px;
+    color: white;
+    z-index: 1000;
+    background-color: #1484CD;
+}
+.ri{
+    position: absolute;
+    top: 202px;
+    right: 205px;
+    width: 400px;
+    text-align: left;
+    background-color: rgba(42, 38, 59, 0.4);
+    color: white;
+    z-index: 1000;}
+.left{
+    position: absolute;
+    top: 200px;
+    left: 110px;
+    color: orange;
+    z-index: 1000;
+}
+.ui{
+    position: absolute;
+    top: 100px;
+    left: 40px;
+
+    z-index: 1000;  
+}
+.righ{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    color:black;
+    z-index: 1000;
+}
+.le{
+    position: absolute;
+    top: 400px;
+    right: 200px;
+
+    z-index: 1000;
+}
+.about{
+    margin-top: 30px;
+}
+.banner{
+    
+    width: 1250px;
+    height: 1100px;
+    object-fit: contain;
+    
+  }
+  .ab{
+    position: absolute;
+    top: 300px;
+    left: 195px;
+    z-index: 1000;
+  }
+  .imm{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    
+  }
+  .card{
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      width: 400px;
+      height: 200px;
+      margin: 40px;
+    
+  }
+  .ca{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 250px;
+    height: 100px;
+    margin: 15px;
+  
+}
+.cont{
+    margin-left: 500px;
+}
+
+  
